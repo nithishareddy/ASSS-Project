@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "express": "^4.21.1",
+    "sqlite3": "^5.1.7"
+  },
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.15.0",
+    "eslint": "^8.57.1",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.31.0",
+    "eslint-plugin-n": "^16.6.2",
+    "eslint-plugin-no-unsafe-innerhtml": "^1.0.16",
+    "eslint-plugin-promise": "^6.6.0",
+    "eslint-plugin-scanjs-rules": "^0.2.1",
+    "eslint-plugin-security": "^3.0.1",
+    "globals": "^15.12.0"
+  }
+}
